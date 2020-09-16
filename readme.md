@@ -1,4 +1,5 @@
 # Laravel FCM
+Forking from : `kawankoding/laravel-fcm`
 
 A simple package that help you send a Firebase notification with your Laravel applications
 
@@ -7,7 +8,7 @@ A simple package that help you send a Firebase notification with your Laravel ap
 You can pull the package via composer :
 
 ```bash
-$ composer require kawankoding/laravel-fcm "^0.2.0"
+$ composer require rendyfutsuy/laravel-fcm
 ```
 
 #### Laravel
